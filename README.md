@@ -12,16 +12,20 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![React](https://img.shields.io/badge/react-05122A?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A??style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js&logoColor=1572B6)&nbsp;
+![ReactNative](https://img.shields.io/badge/-react%20native-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/react-05122A?style=flat&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)
 
 ![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-05122A?style=flat&logo=sqlite&logoColor=white)
