@@ -60,24 +60,9 @@
 
 <p align="center">
   <a href="https://github.com/beycaCC">
-    <img align="center" height="150em" src="https://github-readme-stats-coral-five.vercel.app/api?username=ReZeroE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="150em" src="https://github-readme-stats-coral-five.vercel.app/api?username=beycaCC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
-  <a href="https://github.com/ReZeroE/AnilistPython">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ReZeroE&repo=AnilistPython&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+  <a href="https://github.com/beycaCC/FavAni">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=beycaCC&repo=FavAni&layout=compact&langs_count=8&theme=material-palenight&count_private=true%22"/>
   </a>
 </p> -->
-
-<!--
-**ReZeroE/ReZeroE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
