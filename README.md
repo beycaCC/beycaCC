@@ -4,7 +4,8 @@
 
 <!-- <img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%"> -->
 
-- 🔭 I’m a Computer Science graduate from **Virginia Tech** and a current CS graduate student in **NEU** (graduating soon in May 2025).
+- 🔭 I’m a Computer Science graduate from **Virginia Tech** and a current CS graduate student in **NEU**  
+   (graduating soon in May 2025).
 - ⚡ I'm currently developing working on developing my first mobile application.
 - 🌱 I'm interested in **Full-stack web development, Mobile development, software development, and Systems Design, Cloud Software Development**
 - 📫 How to reach me: cchristine0012@gmail.com
