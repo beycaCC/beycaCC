@@ -7,7 +7,7 @@
 - 🔭 I’m a Computer Science graduate from **Virginia Tech** and a current CS graduate student in **NEU**  
    (graduating soon in May 2025).
 - ⚡ I'm currently developing working on developing my first mobile application.
-- 🌱 I'm interested in **Full-stack web development, Mobile development, software development, and Systems Design, Cloud Software Development**
+- 🌱 I'm interested in **Full-stack web development, Mobile development, software development, UI/UX design, and Systems Design**
 - 📫 How to reach me: cchristine0012@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
